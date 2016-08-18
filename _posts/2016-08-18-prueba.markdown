@@ -1,6 +1,0 @@
----
-published: true
-title: Prueba
-layout: post
----
-aa
