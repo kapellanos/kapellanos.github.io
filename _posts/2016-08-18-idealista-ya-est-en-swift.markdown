@@ -1,6 +1,6 @@
 ---
 published: false
-title: Idealista ya está en Swift!
+title: Idealista en Swift!
 layout: post
 ---
 # idealista ya está 100% en Swift!
